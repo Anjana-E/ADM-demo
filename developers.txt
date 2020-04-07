@@ -75,7 +75,7 @@ Group_10	Name				github username
 --------------------------------------------------------------------
 
 Member 1: Anisha Mary Francis
-Member 2: ANJANA E
+Member 2: ANJANA E          Anjana-E
 Member 3:
 
 Group_11	Name				github username
